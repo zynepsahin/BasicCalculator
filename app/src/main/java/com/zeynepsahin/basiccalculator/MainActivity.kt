@@ -11,7 +11,6 @@ class MainActivity : AppCompatActivity() {
     var number1 : Int? = null
     var number2 : Int? = null
     var result : Int? = null
-    lateinit var resulText: EditText
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
